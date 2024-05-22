@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\Repos\\APIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7D4FD-017A-44E0-8FE7-2F16B1EEF4FA}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\documents\\visual studio 2022\\repos\\apidemo\\apidemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B7D4FD-017A-44E0-8FE7-2F16B1EEF4FA}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7D4FD-017A-44E0-8FE7-2F16B1EEF4FA}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\documents\\visual studio 2022\\repos\\apidemo\\apidemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B7D4FD-017A-44E0-8FE7-2F16B1EEF4FA}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\Repos\\APIDemo\\APIDemo\\Student.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\Repos\\APIDemo\\APIDemo\\Student.cs",
+              "RelativeToolTip": "APIDemo\\Student.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:10:41.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\Repos\\APIDemo\\APIDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\Repos\\APIDemo\\APIDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "APIDemo\\Controllers\\StudentController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:09:58.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
